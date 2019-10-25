@@ -10,6 +10,17 @@ const response = [
         copy:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
+     {
+        name: 'A Chill Weekend in the Foothills',
+        id: 0,
+        image: 'foothills.jpg',
+        dateFrom: 'Oct 25th 2019',
+        dateTo: 'Oct 27th 2019',
+        guests: 2,
+        category: 'relaxation',
+        copy:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+    },
     {
         name: 'Relax in Maui',
         id: 1,
